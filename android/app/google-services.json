@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "268379271317",
+    "project_id": "pharmamed-869a3",
+    "storage_bucket": "pharmamed-869a3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:268379271317:android:9c07f224bde3c56c752b9c",
+        "android_client_info": {
+          "package_name": "com.shahbaz.pharma_med"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "268379271317-8t9oragonqv8gumtiff0ddhsvg8d1iag.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAp86FcPgGgL-lrxAKuw2nKfF1eePse2tY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "268379271317-8t9oragonqv8gumtiff0ddhsvg8d1iag.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
